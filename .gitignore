@@ -1,0 +1,29 @@
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+*.py[co]
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+pip.log.txt
+.coverage
+.tox
+*.mo
+.mr.developer.cfg
